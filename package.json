@@ -1,0 +1,15 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "A simple chat with mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BobNobrain",
+  "license": "ISC",
+  "dependencies": {
+    "bson-ext": "^1.0.5",
+    "mongodb": "^2.2.24"
+  }
+}
