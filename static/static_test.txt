@@ -1,0 +1,2 @@
+Static files are routed succesfully.
+This txt file indicates that static routing inside chosen directory is configured properly.

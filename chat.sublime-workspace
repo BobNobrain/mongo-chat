@@ -1,0 +1,379 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"log",
+				"logThemAll"
+			],
+			[
+				"find",
+				"findByHash"
+			],
+			[
+				"coll",
+				"collection"
+			],
+			[
+				"Projects",
+				"ProjectsListView\talias"
+			],
+			[
+				"pro",
+				"projectslistview\tscript"
+			],
+			[
+				"project",
+				"projectslistview"
+			],
+			[
+				"Proje",
+				"ProjectMeta\talias"
+			],
+			[
+				"Proj",
+				"ProjectsListStateStore\tclass"
+			],
+			[
+				"Project",
+				"ProjectsListSorting\tinterface"
+			],
+			[
+				"c",
+				"common\tscript"
+			],
+			[
+				"te",
+				"templates\tvar"
+			],
+			[
+				"re",
+				"registerPartial\tfunction"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 368.0,
+		"last_filter": "list",
+		"selected_items":
+		[
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"typesc",
+				"TypeScript: Show Error List"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"haskell l",
+				"SublimeHaskell: Check & Lint"
+			],
+			[
+				"haskell",
+				"Set Syntax: Haskell"
+			],
+			[
+				"jsh",
+				"JSHint: Set Plugin Options"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Advanced Install Package"
+			]
+		],
+		"width": 453.0
+	},
+	"console":
+	{
+		"height": 194.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/bob/git/misc/chat"
+	],
+	"file_history":
+	[
+		"/home/bob/git/misc/chat/.jshintrc",
+		"/home/bob/git/misc/chat/index.js",
+		"/home/bob/git/misc/chat/.gitignore",
+		"/home/bob/git/misc/chat/run.sh",
+		"/home/bob/git/misc/meblesite/.gitignore",
+		"/home/bob/Документы/Level transitions.txt",
+		"/home/bob/git/work/visyond/v2/frontend/application/features.json",
+		"/home/bob/git/work/visyond/v2/frontend/site/dashboard/ui.js",
+		"/home/bob/git/work/visyond/v2/frontend/site/dashboard/table.html",
+		"/home/bob/git/work/visyond/v2/frontend/site/dashboard/ts/dashboard.ts",
+		"/home/bob/git/work/visyond/v2/frontend/site/common/components/flux.ts",
+		"/home/bob/git/work/visyond/v2/frontend/site/common/components/plansstore.ts",
+		"/home/bob/git/work/visyond/v2/frontend/site/profile/ts/main.ts",
+		"/home/bob/git/work/visyond/v2/frontend/site/common/components/userstore.ts",
+		"/home/bob/git/work/visyond/v2/frontend/site/profile/ts/userprofilestore.ts",
+		"/home/bob/git/work/visyond/v2/frontend/site/common/common.ts",
+		"/home/bob/git/work/visyond/v2/frontend/site/dashboard/templates/projects_list.hbs",
+		"/home/bob/git/work/visyond/v2/frontend/site/dashboard/ts/projectslistview.ts",
+		"/home/bob/git/work/visyond/v2/frontend/site/common/components/projectsstore.ts",
+		"/home/bob/git/work/visyond/v2/frontend/site/dashboard/templates/projects_list_item.hbs",
+		"/home/bob/git/work/visyond/v2/frontend/site/dashboard/main.js",
+		"/home/bob/.jshintrc",
+		"/home/bob/git/work/visyond/v2/frontend/site/dashboard/ts/importview.ts",
+		"/home/bob/bin/minecraft/forge-1.11.2-13.20.0.2203-mdk/src/main/resources/assets/testmod/blockstates/testblock.json",
+		"/home/bob/bin/minecraft/forge-1.11.2-13.20.0.2203-mdk/src/main/resources/assets/testmod/models/item/medkit.json",
+		"/home/bob/git/work/visyond/v2/spa/dashboard.html",
+		"/home/bob/git/work/visyond/v2/frontend/site/dashboard/row.hbs",
+		"/home/bob/.bashrc",
+		"/home/bob/git/work/visyond/v5/visyond/main/models.py",
+		"/home/bob/git/misc/linters_test/tslint.ts",
+		"/home/bob/git/misc/linters_test/jshint.js",
+		"/home/bob/git/misc/linters_test/hsdev.hs",
+		"/home/bob/.config/sublime-text-3/Packages/User/SublimeHaskell.sublime-settings",
+		"/home/bob/.config/sublime-text-3/Packages/JSHint Gutter/JSHint.sublime-settings",
+		"/home/bob/.config/sublime-text-3/Packages/SublimeHaskell/Settings/SublimeHaskell.sublime-settings",
+		"/home/bob/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+		"/home/bob/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+		"/usr/bin/tsc",
+		"/etc/fstab",
+		"/etc/init.d/mount-shindows.sh",
+		"/etc/init.d/mount-shindows",
+		"/etc/rc.local"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"show:",
+			"DateOptions",
+			"extractTemplate",
+			"extract ",
+			"dashb",
+			"user_activated",
+			"add_"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 55.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.errorlist":
+	{
+		"height": 116.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sublime_haskell_error_panel":
+	{
+		"height": 118.0
+	},
+	"output.sublime_haskell_output_panel":
+	{
+		"height": 116.0
+	},
+	"pinned_build_system": "",
+	"project": "chat.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"plans",
+				"v2/frontend/site/common/components/plansstore.ts"
+			],
+			[
+				"userpro",
+				"v2/frontend/site/profile/ts/userprofilestore.ts"
+			],
+			[
+				"common.ts",
+				"v2/frontend/site/common/common.ts"
+			],
+			[
+				"userst",
+				"v2/frontend/site/common/components/userstore.ts"
+			],
+			[
+				"projectss",
+				"v2/frontend/site/common/components/projectsstore.ts"
+			],
+			[
+				"flux",
+				"v2/frontend/site/common/components/flux.ts"
+			],
+			[
+				"flux.ts",
+				"v2/frontend/site/common/components/flux.ts"
+			],
+			[
+				"features.json",
+				"v2/frontend/application/features.json"
+			],
+			[
+				"d",
+				"v2/spa/dashboard.html"
+			],
+			[
+				"dashboard.",
+				"v2/spa/dashboard.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 324.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
