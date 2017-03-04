@@ -12,6 +12,7 @@
     "body-parser": "^1.16.1",
     "bson-ext": "^1.0.5",
     "express": "^4.14.1",
+    "http-errors": "^1.6.1",
     "method-override": "^2.3.7",
     "mongodb": "^2.2.24",
     "moongoose": "0.0.5",
