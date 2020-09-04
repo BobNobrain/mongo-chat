@@ -14,7 +14,7 @@
     "express": "^4.14.1",
     "http-errors": "^1.6.1",
     "method-override": "^2.3.7",
-    "mongodb": "^2.2.24",
+    "mongodb": "^3.6.1",
     "moongoose": "0.0.5",
     "morgan": "^1.8.1",
     "serve-static": "^1.12.0"
